@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating my own rendition of Axe (a game my siblings and I used to play)
-- 🌱 I’m currently learning Object Oriented Programming
+- 🌱 I’m currently learning Algorithms
 - 📫 How to reach me: on Linkedin www.linkedin.com/in/rachel-des-bordes
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm from Houston
