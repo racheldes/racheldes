@@ -8,7 +8,7 @@ Hi I'm Rachel! I’m a computer science and economics student at Northeastern Un
 - 🌟 Languages: Java, Python, R, SQL, C++, JavaScript, HTML/ CSS, Dr. Racket
 - 🔭 Tools: Git, VS Code, Visual Studio, IntelliJ, Eclipse, jGRASP,  Replit, VEXcode VR, Tinkercad, MacOS, Windows, Linux
 - 📫 Let's Connect!
-- LinkedIn: linkedin.com/in/rachel-des-bordes/
+- LinkedIn: www.linkedin.com/in/rachel-des-bordes/
 - Email: racheladesb@gmail.com / desbordes.r@northeastern.edu 
 - Thanks for stopping by, and feel free to reach out if you'd like to collaborate!
 
