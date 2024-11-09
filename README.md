@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Rachel des Bordes
-Welcome to my GitHub! I’m a computer science and economics student at Northeastern University, with a passion for exploring innovative solutions in tech and finance. Here, you'll find a mix of projects ranging from investment simulators and data analysis tools to games. I enjoy tackling challenging problems, whether it's through code, research, or design.
+Hi I'm Rachel! I’m a computer science and economics student at Northeastern University, with a passion for exploring innovative solutions in tech and finance. Here, you'll find a mix of projects ranging from investment simulators and data analysis tools to games. I enjoy tackling challenging problems, whether it's through code, research, or design.
 
 🔍 About Me
 - 🎓 Major: Computer Science and Economics, expected graduation in May 2027
