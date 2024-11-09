@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Hi, I'm Rachel des Bordes
+Welcome to my GitHub! I’m a computer science and economics student at Northeastern University, with a passion for exploring innovative solutions in tech and finance. Here, you'll find a mix of projects ranging from investment simulators and data analysis tools to games. I enjoy tackling challenging problems, whether it's through code, research, or design.
+
+🔍 About Me
+🎓 Major: Computer Science and Economics, expected graduation in May 2027
+💻 Interests: software development, asset management, fintech, data analytics, and user-focused application development
+🌟 Skills
+Languages: Java, Python, R, SQL, C++, JavaScript, HTML/ CSS, Dr. Racket
+Tools: Git, VS Code, Visual Studio, IntelliJ, Eclipse, jGRASP,  Replit, VEXcode VR, Tinkercad, MacOS, Windows, Linux
+📫 Let's Connect!
+LinkedIn: linkedin.com/in/rachel-des-bordes/
+Email: racheladesb@gmail.com / desbordes.r@northeastern.edu 
+Thanks for stopping by, and feel free to reach out if you'd like to collaborate!
+
 <!--
 **racheldes/racheldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,27 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on Linkedin www.linkedin.com/in/rachel-des-bordes
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm from Houston
-
-Hi, I'm Ruhama Endishaw 👋
-Welcome to my GitHub! I’m a cybersecurity student at Northeastern University, with a passion for exploring innovative solutions in tech and finance. Here, you'll find a mix of projects ranging from investment simulators and data analysis tools to web development and cybersecurity applications. I enjoy tackling challenging problems, whether it's through code, research, or design.
-
-🔍 About Me
-🎓 Major: Cybersecurity, expected graduation in May 2027
-💻 Interests: Cybersecurity, asset management, fintech, product management, and user-focused application development
-🎨 Projects: Many of my projects focus on creating intuitive, educational applications that make complex concepts accessible.
-🌟 Skills
-Languages: Python, Java, SQL
-Tools: Jupyter Notebooks, Git, LucidChart
-Frameworks: pandas for data analysis, basics of frontend development
-Cybersecurity Focus: Network security, ethical hacking, secure coding practices
-🌱 Current Projects
-Virtual Investment Simulator: A project helping beginners explore stock market investments in a risk-free environment through simulated trading.
-International Business Insights: Presentations and projects exploring business concepts on a global scale.
-🚀 Future Goals
-I’m eager to build my expertise in cybersecurity and financial technology, with a vision to develop secure, user-friendly applications. I am also exploring potential roles in product management and software engineering to expand my skill set.
-
-📫 Let's Connect!
-LinkedIn: linkedin.com/in/yourusername
-Email: endishaw.r@northeastern.edu
-Thanks for stopping by, and feel free to reach out if you'd like to collaborate!
 -->
